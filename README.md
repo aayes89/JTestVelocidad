@@ -1,5 +1,5 @@
 # JTestVelocidad
-Programa escrito 100% en Java sin librerías externas. 
+Programa escrito en lenguaje Java sin librerías externas con interfaz minimalista para obtener información sobre el estado de tu conexión de red y otros datos asociados a ella.
 
 # Funcionalidades
 * Captura ubicación vía GeoIP.
