@@ -1,6 +1,17 @@
 # JTestVelocidad
-Test de velocidad y prueba de conexión escrito en Java puro.
+Programa escrito 100% en Java sin librerías externas. 
 
+# Funcionalidades
+* Captura ubicación vía GeoIP.
+* Test de velocidad vía Ookla.
+
+# Cómo usar
+
+* Clonar el repositorio: <code>git clone https://github.com/aayes89/JTestVelocidad.git</code>.
+* Abrir directorio en el IDE Java de tu preferencia (Netbeans, Eclipse, VSCode).
+* Ejecutar programa.
+
+  
 # Licencia
 Proyecto bajo licencia MIT.
 
